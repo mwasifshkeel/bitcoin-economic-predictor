@@ -211,26 +211,18 @@ Navigate to the `notebooks/` directory and run the notebooks in sequence.
 1. **ChromeDriver Issues**:
    ```bash
    # Update ChromeDriver to match Chrome version
-   # Ensure ChromeDriver is in PATH or project directory
    ```
 
 2. **API Rate Limiting**:
    ```python
    # If Binance API calls fail, increase sleep intervals
-   time.sleep(1)  # Increase from 0.5 to 1 second
+   time.sleep(1)
    ```
 
 3. **Memory Issues**:
    ```python
    # For large datasets, process data in chunks
    pd.read_csv('large_file.csv', chunksize=1000)
-   ```
-
-4. **Package Installation Issues**:
-   ```bash
-   # Update pip and try again
-   pip install --upgrade pip
-   pip install -r requirements.txt
    ```
 
 ## Documentation
