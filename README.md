@@ -13,11 +13,11 @@ The goal is to determine if economic events and indicators can be used to predic
 
 ##  Team Members
 
-| Name | Student ID | GitHub Profile |
-|------|------------|----------------|
-| Muhammad Muntazar | 470861 | [@Muhammad-Muntazar](https://github.com/overproness) |
-| Hafiz Abdul Bast | 472617 | [@Hafiz-Abdul-Bast](https://github.com/230805Abdul) |
-| Muhammad Wasif Shakeel | 456092 | [@Muhammad-Wasif-Shakeel](https://github.com/mwasifshkeel) |
+| Name | GitHub Profile |
+|------|----------------|
+| Muhammad Muntazar | [@Muhammad-Muntazar](https://github.com/overproness) |
+| Hafiz Abdul Bast | [@Hafiz-Abdul-Bast](https://github.com/230805Abdul) |
+| Muhammad Wasif Shakeel | [@Muhammad-Wasif-Shakeel](https://github.com/mwasifshkeel) |
 
 ##  Project Structure
 
